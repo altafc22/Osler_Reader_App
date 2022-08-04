@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Osler Reader App</string>
+
+    <string name="retry">Retry</string>
+    <string name="unable_to_connect_server_please_try_again">Unable to connect Server, please try again</string>
+    <string name="oops">Oops</string>
+    <string name="please_try_again_to_search_favorite_books">Please try again to search favorite books</string>
+    <string name="no_data_found">No Data found</string>
+    <string name="we_are_loading_something_for_you">we are loading something for you</string>
+    <string name="please_wait">Please wait</string>
+    <string name="close">Close</string>
+    <string name="device_status">Device Status</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../Library/Android/sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.13229166666666667" />
+        <entry key="app/src/main/res/drawable/chip_radio_button.xml" value="0.1285" />
+        <entry key="app/src/main/res/drawable/logo_text.xml" value="0.1285" />
+        <entry key="app/src/main/res/drawable/nav_home.xml" value="0.1285" />
+        <entry key="app/src/main/res/drawable/nav_wishlist.xml" value="0.1285" />
+        <entry key="app/src/main/res/drawable/rounded_corners.xml" value="0.141" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26156941649899396" />
+        <entry key="app/src/main/res/layout/dialog_details.xml" value="0.24198150634765628" />
+        <entry key="app/src/main/res/layout/item_user_status.xml" value="0.2763666788736979" />
+        <entry key="app/src/main/res/layout/layout_loading.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/layout_no_data.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/layout_no_internet.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

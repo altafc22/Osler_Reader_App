@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/white">
+    
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/page"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/no_data_found"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/typo_round_bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/grey"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/please_try_again_to_search_favorite_books"
+        android:fontFamily="@font/typo_round_regular"
+        android:textColor="@color/greyLight"/>
+
+</LinearLayout>
