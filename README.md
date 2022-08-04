@@ -1,7 +1,7 @@
 
-# Osler Reader App
+#e Osler Reader App
 
-Created BookHub demo project using google books
+Created Osler Reader demo project which reads the record from files and show device user status
 
 ## Feature
 - Developed in Kotlin and used Courourine to download data from internet
